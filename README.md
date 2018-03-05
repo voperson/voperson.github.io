@@ -1,5 +1,5 @@
 ---
-title: voPerson: 
+title: voPerson
 ---
 
 # 2018 Feb 06: voPerson 1.0.0
