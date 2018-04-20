@@ -1,5 +1,5 @@
-* [voPerson Object Class and Recommendations](https://github.com/voperson/voperson/blob/master/voPerson.md)
-* OpenLDAP Schema Files, in [schema](https://github.com/voperson/voperson/blob/master/schema/openldap/voperson.schema) and [ldif](https://github.com/voperson/voperson/blob/1.0.0/schema/openldap/voperson.ldif) formats
+[voPerson Object Class and Recommendations](https://github.com/voperson/voperson/blob/master/voPerson.md)
+OpenLDAP Schema Files, in [schema](https://github.com/voperson/voperson/blob/master/schema/openldap/voperson.schema) and [ldif](https://github.com/voperson/voperson/blob/1.0.0/schema/openldap/voperson.ldif) formats
 
 Please provide feedback using [GitHub Issues](https://github.com/voperson/voperson/issues).
 
@@ -11,4 +11,4 @@ Please provide feedback using [GitHub Issues](https://github.com/voperson/vopers
 
 voPerson was developed by [NCSA](http://www.ncsa.illinois.edu/) and [Spherical Cow Group](http://sphericalcowgroup.com/) for the [CILogon](http://www.cilogon.org/) project.
 
-![NCSA](logos/ncsa-logo.png)![Spherical Cow Group](logos/scg-logo.png)![CILogon](logos/cilogon-logo.png)
+![NCSA](logos/ncsa-logo.png) ![Spherical Cow Group](logos/scg-logo.png) ![CILogon](logos/cilogon-logo.png)
