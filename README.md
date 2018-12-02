@@ -6,7 +6,8 @@ Please provide feedback using [GitHub Issues](https://github.com/voperson/vopers
 
 ## Version History
 
-2018 Feb 06: [voPerson 1.0.0](https://github.com/voperson/voperson/tree/1.0.0)
+* 2018 Dec 02: [voPerson 1.1.0](https://github.com/voperson/voperson/tree/1.1.0)
+* 2018 Feb 06: [voPerson 1.0.0](https://github.com/voperson/voperson/tree/1.0.0)
 
 ## About voPerson
 
