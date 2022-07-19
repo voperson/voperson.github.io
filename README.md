@@ -1,6 +1,10 @@
 [voPerson Object Class and Recommendations](https://github.com/voperson/voperson/blob/master/voPerson.md)
+  * OpenLDAP Schema Files, in [schema](https://github.com/voperson/voperson/blob/master/schema/openldap/voperson.schema) and [ldif](https://github.com/voperson/voperson/blob/master/schema/openldap/voperson.ldif) formats
+  * 389 DS [Schema File](https://github.com/voperson/voperson/blob/master/schema/389-ds/voperson.ldif) 
+  * [voPerson SAML Representation](https://github.com/voperson/voperson/blob/master/aux/voPerson-SAML.md)
 
-OpenLDAP Schema Files, in [schema](https://github.com/voperson/voperson/blob/master/schema/openldap/voperson.schema) and [ldif](https://github.com/voperson/voperson/blob/master/schema/openldap/voperson.ldif) formats
+[voPosixAccount Object Class and Recommendations](https://github.com/voperson/voperson/blob/main/voPosixAccount.md)
+  * OpenLDAP Schema Files, in [schema](https://github.com/voperson/voperson/blob/master/schema/openldap/voposixaccount.schema) and [ldif](https://github.com/voperson/voperson/blob/master/schema/openldap/voposixaccount.ldif) formats
 
 Please provide feedback using [GitHub Issues](https://github.com/voperson/voperson/issues) or directly to the [REFEDS Schema Board voPerson Subcommittee](https://wiki.refeds.org/display/STAN/voPerson+subcommittee).
 
