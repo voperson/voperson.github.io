@@ -16,7 +16,7 @@ Please provide feedback using [GitHub Issues](https://github.com/voperson/vopers
 
 ## Citation
 
-REFEDS Schema Editorial Board. (2022). voPerson Object Class and Recommendations (2.0.0). Zenodo. https://doi.org/10.5281/zenodo.6818225
+REFEDS Schema Editorial Board. (2022). voPerson Object Class and Recommendations (2.0.0). Zenodo. <https://doi.org/10.5281/zenodo.6818225>
 
 ## About voPerson
 
